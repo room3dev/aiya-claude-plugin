@@ -7,8 +7,8 @@
     "email": "support@aiya.ai",
     "url": "https://aiya.me"
   },
-  "homepage": "https://github.com/megenius/aiya-claude-plugin",
-  "repository": "https://github.com/megenius/aiya-claude-plugin",
+  "homepage": "https://github.com/room3dev/aiya-claude-plugin",
+  "repository": "https://github.com/room3dev/aiya-claude-plugin",
   "license": "MIT",
   "keywords": ["line", "line-oa", "facebook", "instagram", "chatbot", "crm", "thailand", "smb", "marketing"]
 }

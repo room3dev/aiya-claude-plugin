@@ -16,7 +16,7 @@
 ใน Claude Code หรือ Claude Desktop พิมพ์
 
 ```
-/plugin marketplace add megenius/aiya-claude-plugin
+/plugin marketplace add room3dev/aiya-claude-plugin
 /plugin install aiya@aiya
 ```
 
@@ -74,8 +74,13 @@ Claude จะดึงห้องแชทที่ยังไม่มีค�
 ## ขอความช่วยเหลือ
 
 - อีเมล support@aiya.ai
-- แจ้งปัญหาที่ https://github.com/megenius/aiya-claude-plugin/issues
+- แจ้งปัญหาที่ https://github.com/room3dev/aiya-claude-plugin/issues
 
 ## สัญญาอนุญาต
 
 MIT - ดูไฟล์ LICENSE
+
+---
+
+> **หมายเหตุชั่วคราว** repo นี้อยู่ใต้บัญชี `room3dev` ระหว่างรอย้ายไปบัญชีกลางของ AIYA
+> เมื่อย้ายแล้ว GitHub จะ redirect ให้อัตโนมัติ คนที่ add ไว้แล้วไม่ต้องทำอะไรเพิ่ม
