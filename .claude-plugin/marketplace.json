@@ -9,8 +9,11 @@
   "plugins": [
     {
       "name": "aiya",
+      "displayName": "AIYA",
       "description": "Manage your LINE OA and Facebook/Instagram Page from Claude: auto-reply flows, broadcasts, rich menus, page posts, content calendar, comments and customer chats.",
-      "author": { "name": "AIYA" },
+      "author": {
+        "name": "AIYA"
+      },
       "category": "marketing",
       "source": "./"
     }
