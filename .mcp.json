@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "aiya-line": {
+      "type": "http",
+      "url": "https://mcp.aiya.me/line"
+    },
+    "aiya-page": {
+      "type": "http",
+      "url": "https://mcp.aiya.me/page"
+    }
+  }
+}

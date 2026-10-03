@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "aiya",
+  "description": "AIYA plugins for Claude - LINE Official Account and Facebook/Instagram Page management for Thai businesses",
+  "owner": {
+    "name": "AIYA",
+    "email": "support@aiya.ai"
+  },
+  "plugins": [
+    {
+      "name": "aiya",
+      "description": "Manage your LINE OA and Facebook/Instagram Page from Claude: auto-reply flows, broadcasts, rich menus, page posts, content calendar, comments and customer chats.",
+      "author": { "name": "AIYA" },
+      "category": "marketing",
+      "source": "./"
+    }
+  ]
+}

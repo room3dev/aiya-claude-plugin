@@ -1,0 +1,14 @@
+{
+  "name": "aiya",
+  "description": "AIYA business suite for Thai SMEs. Connects Claude to your LINE Official Account (AIOA) and Facebook/Instagram Page (AiPage) so you can build auto-reply flows, schedule broadcasts, plan page content, read customer conversations and check real usage numbers - in plain Thai, from one place. Remote MCP over OAuth 2.0; each token is scoped to a single workspace.",
+  "version": "0.1.0",
+  "author": {
+    "name": "AIYA",
+    "email": "support@aiya.ai",
+    "url": "https://aiya.me"
+  },
+  "homepage": "https://github.com/megenius/aiya-claude-plugin",
+  "repository": "https://github.com/megenius/aiya-claude-plugin",
+  "license": "MIT",
+  "keywords": ["line", "line-oa", "facebook", "instagram", "chatbot", "crm", "thailand", "smb", "marketing"]
+}
